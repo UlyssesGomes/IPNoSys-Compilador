@@ -1,0 +1,2 @@
+Pasta necessária para o compilador salvar os códigos no formato ".asm", que é o 
+formato de arquivo PDL.
